@@ -3,9 +3,7 @@ import { StyleSheet, Text, View, StatusBar } from 'react-native';
 import { useFonts } from 'expo-font';
 import { Profiles, Icons, Themes } from './assets/Themes';
 import { Header, Body, Footer } from './app/components';
-// import Header from './app/components/header';
-// import Body from './app/components/body';
-// import Footer from './app/components/footer';
+
 
 
 
